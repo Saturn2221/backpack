@@ -2,6 +2,6 @@
 
 
 int main() {
-    printf("The max value is 650");
+    printf("The max value is 660");
     return 0;
 }
